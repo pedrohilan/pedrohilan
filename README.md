@@ -1,4 +1,9 @@
-### Hello Friend 🤖
+## Hello Friend 🤖 ##
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohilan&show_icons=true&theme=dark" />
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohilan&layout=compact&langs_count=16&theme=dark" />
+</div>
 
 <!--
 **pedrohilan/pedrohilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
