@@ -1,6 +1,6 @@
 ## Hello Friend 🤖 ##
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between; align-items: center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrohilan&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohilan&theme=dark&layout=compact" />
 </div>
