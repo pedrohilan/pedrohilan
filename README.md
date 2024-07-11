@@ -1,8 +1,8 @@
 ## Hello Friend 🤖 ##
 
 <div>
-  [![card](https://github-readme-stats.vercel.app/api?username=pedrohilan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![pedrohilan](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohilan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohilan&theme=dark)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohilan&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
 <!--
